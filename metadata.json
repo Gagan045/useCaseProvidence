@@ -1,0 +1,5 @@
+{
+  "name": "Providence Health Hub",
+  "description": "A modern, cloud-native application designed for healthcare, enabling patients and providers to seamlessly manage appointments, access medical records, and receive timely notifications. It features an AI-powered health assistant to provide preliminary guidance.",
+  "requestFramePermissions": []
+}
